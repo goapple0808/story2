@@ -1,1 +1,2 @@
 this is a story to prectice git
+This is a great story.
